@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @notgraket
 - 👀 I’m interested in ... Robotics and programming.
-- 🌱 I’m currently learning ... ARM Assembly
-- 💞️ I’m looking to collaborate on ... 
-- 🔭 I’m currently working on updating and revising my Voice Service
+- 🌱 I’m currently learning ... ARM Assembly.
+- 💞️ I’m looking to collaborate on ... anything.
 - 📫 How to reach me ... nsepello@gmail.com
 
 <!---
