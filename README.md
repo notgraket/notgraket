@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @notgraket
-- 👀 I’m interested in ... Robotics and programming.
-- 🌱 I’m currently learning ... ARM Assembly.
-- 💞️ I’m looking to collaborate on ... anything.
-- 📫 How to reach me ... nsepello@gmail.com
+- 👋 Hi, I’m Nicolas Sepello
+- 👀 I’m interested in psychology, programming, and meeting people.
+- 🌱 I’m currently learning about Neural Networks.
+- 📫 How to reach me at NickSepello@gmail.com
 
 <!---
 notgraket/notgraket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
